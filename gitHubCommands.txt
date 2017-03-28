@@ -7,7 +7,7 @@ git remote add origin https://github.com/jayverhoef/shTex.git
 git push -u origin master
 # now add files and folders 
 git add .
-git commit -a -m 'first commits for 1.1.9'
+git commit -a -m 'first commits'
 git push origin master
 git pull pull master
 
